@@ -1,0 +1,8 @@
+D:\Pictures\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ConsoleTarea4Parte 1.2\ConsoleTarea4Parte 1.2\bin\Debug\ConsoleTarea4Parte 1.2.exe.config
+D:\Pictures\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ConsoleTarea4Parte 1.2\ConsoleTarea4Parte 1.2\bin\Debug\ConsoleTarea4Parte 1.2.exe
+D:\Pictures\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ConsoleTarea4Parte 1.2\ConsoleTarea4Parte 1.2\bin\Debug\ConsoleTarea4Parte 1.2.pdb
+D:\Pictures\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ConsoleTarea4Parte 1.2\ConsoleTarea4Parte 1.2\obj\Debug\ConsoleTarea4Parte 1.2.csproj.AssemblyReference.cache
+D:\Pictures\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ConsoleTarea4Parte 1.2\ConsoleTarea4Parte 1.2\obj\Debug\ConsoleTarea4Parte 1.2.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ConsoleTarea4Parte 1.2\ConsoleTarea4Parte 1.2\obj\Debug\ConsoleTarea4Parte 1.2.csproj.CoreCompileInputs.cache
+D:\Pictures\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ConsoleTarea4Parte 1.2\ConsoleTarea4Parte 1.2\obj\Debug\ConsoleTarea4Parte 1.2.exe
+D:\Pictures\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ConsoleTarea4Parte 1.2\ConsoleTarea4Parte 1.2\obj\Debug\ConsoleTarea4Parte 1.2.pdb
