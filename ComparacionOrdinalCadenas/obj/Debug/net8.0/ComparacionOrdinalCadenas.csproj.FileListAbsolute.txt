@@ -1,0 +1,28 @@
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\bin\Debug\net8.0\ComparacionOrdinalCadenas.exe
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\bin\Debug\net8.0\ComparacionOrdinalCadenas.deps.json
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\bin\Debug\net8.0\ComparacionOrdinalCadenas.runtimeconfig.json
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\bin\Debug\net8.0\ComparacionOrdinalCadenas.dll
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\bin\Debug\net8.0\ComparacionOrdinalCadenas.pdb
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.AssemblyInfoInputs.cache
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.AssemblyInfo.cs
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.csproj.CoreCompileInputs.cache
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.dll
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\refint\ComparacionOrdinalCadenas.dll
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.pdb
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.genruntimeconfig.cache
+D:\CURSO SEPE\UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ref\ComparacionOrdinalCadenas.dll
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\bin\Debug\net8.0\ComparacionOrdinalCadenas.exe
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\bin\Debug\net8.0\ComparacionOrdinalCadenas.deps.json
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\bin\Debug\net8.0\ComparacionOrdinalCadenas.runtimeconfig.json
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\bin\Debug\net8.0\ComparacionOrdinalCadenas.dll
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\bin\Debug\net8.0\ComparacionOrdinalCadenas.pdb
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.AssemblyInfoInputs.cache
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.AssemblyInfo.cs
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.dll
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\refint\ComparacionOrdinalCadenas.dll
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.pdb
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ComparacionOrdinalCadenas.genruntimeconfig.cache
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\ComparacionOrdinalCadenas\obj\Debug\net8.0\ref\ComparacionOrdinalCadenas.dll

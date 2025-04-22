@@ -1,0 +1,14 @@
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\bin\Debug\net8.0\ClaseStringBuilder.exe
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\bin\Debug\net8.0\ClaseStringBuilder.deps.json
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\bin\Debug\net8.0\ClaseStringBuilder.runtimeconfig.json
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\bin\Debug\net8.0\ClaseStringBuilder.dll
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\bin\Debug\net8.0\ClaseStringBuilder.pdb
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\obj\Debug\net8.0\ClaseStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\obj\Debug\net8.0\ClaseStringBuilder.AssemblyInfoInputs.cache
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\obj\Debug\net8.0\ClaseStringBuilder.AssemblyInfo.cs
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\obj\Debug\net8.0\ClaseStringBuilder.csproj.CoreCompileInputs.cache
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\obj\Debug\net8.0\ClaseStringBuilder.dll
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\obj\Debug\net8.0\refint\ClaseStringBuilder.dll
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\obj\Debug\net8.0\ClaseStringBuilder.pdb
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\obj\Debug\net8.0\ClaseStringBuilder.genruntimeconfig.cache
+D:\CURSO SEPE\UDEMY\ClaseStringBuilder\ClaseStringBuilder\obj\Debug\net8.0\ref\ClaseStringBuilder.dll
