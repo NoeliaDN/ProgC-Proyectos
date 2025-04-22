@@ -1,0 +1,7 @@
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\MetodoCompare\bin\Debug\MetodoCompare.exe.config
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\MetodoCompare\bin\Debug\MetodoCompare.exe
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\MetodoCompare\bin\Debug\MetodoCompare.pdb
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\MetodoCompare\obj\Debug\MetodoCompare.csproj.AssemblyReference.cache
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\MetodoCompare\obj\Debug\MetodoCompare.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\MetodoCompare\obj\Debug\MetodoCompare.exe
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\MetodoCompare\obj\Debug\MetodoCompare.pdb

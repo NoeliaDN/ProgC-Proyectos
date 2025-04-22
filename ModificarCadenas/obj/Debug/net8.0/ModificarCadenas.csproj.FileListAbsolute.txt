@@ -1,0 +1,14 @@
+D:\CURSO SEPE\UDEMY\ModificarCadenas\bin\Debug\net8.0\ModificarCadenas.exe
+D:\CURSO SEPE\UDEMY\ModificarCadenas\bin\Debug\net8.0\ModificarCadenas.deps.json
+D:\CURSO SEPE\UDEMY\ModificarCadenas\bin\Debug\net8.0\ModificarCadenas.runtimeconfig.json
+D:\CURSO SEPE\UDEMY\ModificarCadenas\bin\Debug\net8.0\ModificarCadenas.dll
+D:\CURSO SEPE\UDEMY\ModificarCadenas\bin\Debug\net8.0\ModificarCadenas.pdb
+D:\CURSO SEPE\UDEMY\ModificarCadenas\obj\Debug\net8.0\ModificarCadenas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SEPE\UDEMY\ModificarCadenas\obj\Debug\net8.0\ModificarCadenas.AssemblyInfoInputs.cache
+D:\CURSO SEPE\UDEMY\ModificarCadenas\obj\Debug\net8.0\ModificarCadenas.AssemblyInfo.cs
+D:\CURSO SEPE\UDEMY\ModificarCadenas\obj\Debug\net8.0\ModificarCadenas.csproj.CoreCompileInputs.cache
+D:\CURSO SEPE\UDEMY\ModificarCadenas\obj\Debug\net8.0\ModificarCadenas.dll
+D:\CURSO SEPE\UDEMY\ModificarCadenas\obj\Debug\net8.0\refint\ModificarCadenas.dll
+D:\CURSO SEPE\UDEMY\ModificarCadenas\obj\Debug\net8.0\ModificarCadenas.pdb
+D:\CURSO SEPE\UDEMY\ModificarCadenas\obj\Debug\net8.0\ModificarCadenas.genruntimeconfig.cache
+D:\CURSO SEPE\UDEMY\ModificarCadenas\obj\Debug\net8.0\ref\ModificarCadenas.dll
