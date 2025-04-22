@@ -1,0 +1,7 @@
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\RellenarCadenasPad\bin\Debug\RellenarCadenasPad.exe.config
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\RellenarCadenasPad\bin\Debug\RellenarCadenasPad.exe
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\RellenarCadenasPad\bin\Debug\RellenarCadenasPad.pdb
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\RellenarCadenasPad\obj\Debug\RellenarCadenasPad.csproj.AssemblyReference.cache
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\RellenarCadenasPad\obj\Debug\RellenarCadenasPad.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\RellenarCadenasPad\obj\Debug\RellenarCadenasPad.exe
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\RellenarCadenasPad\obj\Debug\RellenarCadenasPad.pdb

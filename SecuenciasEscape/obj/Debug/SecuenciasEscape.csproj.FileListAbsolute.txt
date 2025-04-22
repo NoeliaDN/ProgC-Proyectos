@@ -1,0 +1,7 @@
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\SecuenciasEscape\bin\Debug\SecuenciasEscape.exe.config
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\SecuenciasEscape\bin\Debug\SecuenciasEscape.exe
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\SecuenciasEscape\bin\Debug\SecuenciasEscape.pdb
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\SecuenciasEscape\obj\Debug\SecuenciasEscape.csproj.AssemblyReference.cache
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\SecuenciasEscape\obj\Debug\SecuenciasEscape.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\SecuenciasEscape\obj\Debug\SecuenciasEscape.exe
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\SecuenciasEscape\obj\Debug\SecuenciasEscape.pdb
