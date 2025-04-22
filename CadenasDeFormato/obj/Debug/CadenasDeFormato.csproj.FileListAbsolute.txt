@@ -1,0 +1,7 @@
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\CadenasDeFormato\bin\Debug\CadenasDeFormato.exe.config
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\CadenasDeFormato\bin\Debug\CadenasDeFormato.exe
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\CadenasDeFormato\bin\Debug\CadenasDeFormato.pdb
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\CadenasDeFormato\obj\Debug\CadenasDeFormato.csproj.AssemblyReference.cache
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\CadenasDeFormato\obj\Debug\CadenasDeFormato.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\CadenasDeFormato\obj\Debug\CadenasDeFormato.exe
+C:\Users\Noelia\OneDrive\PC fijo\Pictures\VISUAL STUDIO PROJECTS\C# UDEMY\CadenasDeFormato\obj\Debug\CadenasDeFormato.pdb
